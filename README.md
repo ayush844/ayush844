@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia&column=3&margin-w=15&margin-h=15"><img src="https://github-profile-trophy.vercel.app/?username=ayush844&theme=algolia&column=5&margin-w=15&margin-h=15" alt="ayush844" /></a> </p>
 
--> <h3> 📫 How to reach me **ayush.xyz1625@gmail.com** </h3>
+<h3> 📫 How to reach me **ayush.xyz1625@gmail.com** </h3>
 
 
 <h2 align="left">Connect with me:</h2>

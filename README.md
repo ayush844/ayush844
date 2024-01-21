@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush</h1>
 <h2 align="center">A passionate fullstack developer from India</h2>
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia"><img src="https://github-profile-trophy.vercel.app/?username=ayush844&theme=algolia" alt="ayush844" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia"><img src="https://github-profile-trophy.vercel.app/?username=ayush844&theme=algolia" alt="ayush844"  height="50" width="60" /></a> </p>
 
 - 💬 Ask me about **MERN**
 

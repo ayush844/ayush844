@@ -3,11 +3,8 @@
 
 <p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia&column=3&margin-w=15&margin-h=15"><img src="https://github-profile-trophy.vercel.app/?username=ayush844&theme=algolia&column=5&margin-w=15&margin-h=15" alt="ayush844" /></a> </p>
 
-- 💬 Ask me about **MERN**
+-> <h3> 📫 How to reach me **ayush.xyz1625@gmail.com** </h3>
 
-- 📫 How to reach me **ayush.xyz1625@gmail.com**
-
-- ⚡ Fun fact **I speak both human and machine languages fluently**
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">

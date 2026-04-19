@@ -8,7 +8,7 @@ Always open to collaborating on impactful projects and ideas 🚀
 
 Feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ayush%20Sharma-blue?style=flat-square\&logo=Linkedin\&logoColor=white\&link=https://www.linkedin.com/in/ayush-sharma-217335250)](https://www.linkedin.com/in/ayush-sharma-217335250)
+[![LinkedIn Badge](https://img.shields.io/badge/-Ayush%20Sharma-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-sharma-217335250)
 [![GitHub Badge](https://img.shields.io/badge/-ayush844-black?style=flat-square\&logo=github\&logoColor=white\&link=https://github.com/ayush844)](https://github.com/ayush844)
 [![Gmail Badge](https://img.shields.io/badge/-ayush.xyz1625@gmail.com-c14438?style=flat-square\&logo=Gmail\&logoColor=white\&link=mailto\:ayush.xyz1625@gmail.com)](mailto:ayush.xyz1625@gmail.com)
 

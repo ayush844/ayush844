@@ -1,4 +1,4 @@
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+## Welcome <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> — you’re in the right place
 
 I am **Ayush Sharma**, a full-stack developer from India 🇮🇳, currently pursuing B.Tech in IT.
 I love building scalable web applications, exploring backend systems, and working with distributed architectures.

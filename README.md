@@ -1,22 +1,50 @@
-<h1 align="center">Hi 👋, I'm Ayush</h1>
-<h2 align="center">A passionate fullstack developer from India</h2>
+## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-<p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia&column=3&margin-w=15&margin-h=15"><img src="https://github-profile-trophy.vercel.app/?username=ayush844&theme=algolia&column=5&margin-w=15&margin-h=15" alt="ayush844" /></a> </p>
+I am **Ayush Sharma**, a full-stack developer from India 🇮🇳, currently pursuing B.Tech in IT.
+I love building scalable web applications, exploring backend systems, and working with distributed architectures.
 
-<h3> 📫 How to reach me **ayush.xyz1625@gmail.com** </h3>
+I’m deeply interested in **system design, real-world backend problems, and developer tools**.
+Always open to collaborating on impactful projects and ideas 🚀
 
+Feel free to connect with me here:
 
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://twitter.com/ayushuprush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayushuprush" height="50" width="60" /></a>
-<a href="https://linkedin.com/in/ayush-sharma-217335250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-sharma-217335250" height="50" width="60" /></a>
-</p>
+[![Linkedin Badge](https://img.shields.io/badge/-Ayush%20Sharma-blue?style=flat-square\&logo=Linkedin\&logoColor=white\&link=https://www.linkedin.com/in/ayush-sharma-217335250)](https://www.linkedin.com/in/ayush-sharma-217335250)
+[![GitHub Badge](https://img.shields.io/badge/-ayush844-black?style=flat-square\&logo=github\&logoColor=white\&link=https://github.com/ayush844)](https://github.com/ayush844)
+[![Gmail Badge](https://img.shields.io/badge/-ayush.xyz1625@gmail.com-c14438?style=flat-square\&logo=Gmail\&logoColor=white\&link=mailto\:ayush.xyz1625@gmail.com)](mailto:ayush.xyz1625@gmail.com)
 
-<h2 align="left">Languages and Tools:</h2>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="60"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/> </a> </p>
-<br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush844&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ayush844" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayush844&show_icons=true&locale=en&theme=algolia" alt="ayush844" /></p>
+## ⚡ Technologies & Tools
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush844&theme=algolia" alt="ayush844" /></p>
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square\&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square\&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square\&logo=python)
+![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square\&logo=java)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square\&logo=django)
+![React](https://img.shields.io/badge/-React-black?style=flat-square\&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square\&logo=next.js)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square\&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square\&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square\&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square\&logo=mysql)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square\&logo=redis)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square\&logo=rabbitmq)
+![Amazon SQS](https://img.shields.io/badge/-Amazon%20SQS-FF9900?style=flat-square\&logo=amazon-aws)
+![AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat-square\&logo=amazon-aws)
+![EC2](https://img.shields.io/badge/-AWS%20EC2-FF9900?style=flat-square\&logo=amazon-aws)
+![S3](https://img.shields.io/badge/-AWS%20S3-569A31?style=flat-square\&logo=amazon-s3)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square\&logo=docker)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square\&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square\&logo=github)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square\&logo=postman)
+
+---
+
+## 📊 GitHub Stats
+
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush844\&show_icons=true\&count_private=true\&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush844\&layout=compact\&theme=radical)
+
+---
+

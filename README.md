@@ -42,13 +42,4 @@ Feel free to connect with me here:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square\&logo=github)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square\&logo=postman)
 
----
-
-## 📊 GitHub Stats
-
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush844\&show_icons=true\&count_private=true\&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush844\&layout=compact\&theme=radical)
-
----
 
